@@ -136,35 +136,6 @@ Focused on the "Power of Persona" in prompt engineering, turning raw LLM outputs
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekK7860&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A855F7&text_color=94a3b8&icon_color=9333EA" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekK7860&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A855F7&text_color=94a3b8" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekK7860&theme=tokyonight&hide_border=true&background=050505&ring=A855F7&fire=9333EA&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekK7860&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekK7860&theme=tokyo-night&bg_color=050505&color=A855F7&line=9333EA&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
