@@ -1,43 +1,212 @@
-# Abhishek � Developer Portfolio
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=250&section=header&text=Abhishek%20Kesarwani&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header Banner" width="100%" />
 
-A production-grade, high-performance personal developer portfolio demonstrating full-stack engineering, agentic pipelines, and interactive 3D capabilities.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Prompt+Engineering+Specialist;Architecting+Scalable+Full+Stack+Apps;Hackathon+Competitor+&+Problem+Solver" alt="Typing SVG" />
+</div>
 
-## Architecture & Technology
+<div align="center">
+  <img src="https://img.shields.io/badge/BCA_Student-2027-9333EA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/Location-India-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://abhishekk7860.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-santoshkumar-kesarwani-1723682a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mrzubane786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-* **Framework:** Next.js 16 (App Router, Server Components)
-* **Styling:** Tailwind CSS v4
-* **Motion & UI:** `motion/react` (Framer Motion) utilizing strict spring physics
-* **3D Renderer:** React Three Fiber (R3F) + Drei
-* **3D Asset:** CC0 Public Domain `RobotExpressive` GLB model
-* **Testing:** Playwright E2E browser automation
-* **Performance:** Lazy-loaded WebGL payload via `next/dynamic`, optimized fonts
-
-## AI-Driven Engineering & Tooling
-
-This project was engineered entirely through **Google Antigravity (AGY)**, employing a strict phased state-machine workflow and autonomous multi-agent orchestration. The development process acts as a live demonstration of advanced prompt engineering and agent handling.
-
-### Skills Applied
-* **`claude-workflow`**: Enforced the strict Explore -> Plan -> Implement -> Verify discipline. No code was written without an approved architectural blueprint.
-* **`impeccable` & `design-taste-frontend`**: Banned generic AI "slop" (glassmorphism, heavy gradients) in favor of the "Agentic Canvas" aesthetic�relying on stark `#0A0A0A` tonal contrast, precise typography, sharp borders, and spring-physics interactions.
-* **`wcag-accessibility-audit`**: Enforced strict WCAG 2.2 AA compliance, including `aria-hidden` management on 3D elements, keyboard `focus-visible` rings, and native `prefers-reduced-motion` integration inside the R3F `useFrame` render loop.
-* **`vercel-react-best-practices`**: Ensured correct RSC boundaries and prevented main-thread blocking by dynamically loading the 453KB GLB asset.
-* **`webapp-testing`**: Configured and executed a Playwright test suite to actively assert against Next.js hydration failures and WebGL runtime errors.
-
-### Multi-Agent Orchestration
-To accelerate development and prevent write races, specialized subagents were deployed concurrently:
-1. **Research Agent**: Scanned local repositories (`HHGOA`, `Fifa2026Ops-Ai`, `india-runs-ai-recruiter`) via PowerShell and GitHub API to independently verify all project claims before committing them to copy.
-2. **UI/Motion Agent**: Built isolated Framer Motion component architecture.
-3. **R3F/3D Agent**: Handled `useFrame` tracking math and 3D GLB integration.
-4. **Testing QA Agent**: Bootstrapped Playwright and executed the E2E verification suite.
-5. **Accessibility Agent**: Conducted the final WCAG compliance audits.
-
-## Project Claims & Verification
-Every project showcased in this portfolio was verified against its source repository during Phase 0 & Phase 3 discovery:
-- **StadiumOps AI**: Verified Supabase, Llama 3 OpenRouter integrations, and real-time heuristics.
-- **AI Recruiter Pipeline**: Verified FAISS vector indexing and the multi-agent `CriticAgent` Python architecture.
-- **Interactive ID Builder**: Verified the client-side Canvas and Spring Motion physics.
-- **CarbonMind Coach**: Verified Gemini API integrations for the sustainability engine.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekK7860&label=Profile%20Views&color=9333EA&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AbhishekK7860?label=Followers&style=flat-square&color=9333EA" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AbhishekK7860?style=flat-square&color=9333EA" alt="Stars" />
+</div>
 
 ---
-*Generated and verified autonomously via Antigravity Agent.*
 
+## 👨‍💻 About Me
+
+I am an **AI-Focused Full Stack Engineer** and problem solver driven by a product engineering mindset. With a foundation in computer science and extensive hands-on experience in high-stakes hackathons, I specialize in bridging the gap between cutting-edge Generative AI models and robust, scalable web architectures. 
+
+My work centers on **AI Evaluation, Prompt Engineering, and Agentic Systems**, transforming theoretical LLM capabilities into predictable, production-ready features. Whether optimizing FAISS vector pipelines for talent acquisition or architecting multi-agent logistics systems, I build software that is useful, rigorously evaluated, and highly reliable.
+
+**Open To:** Roles in AI Engineering, Generative AI integration, and Full Stack Development where complex technical challenges meet real-world impact.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp&theme=dark" alt="Languages" />
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,framer&theme=dark" alt="Frontend" />
+  <p><strong>Backend & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,postgres,mysql&theme=dark" alt="Backend" />
+  <p><strong>Cloud, DevOps & Tooling</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,playwright&theme=dark" alt="DevOps" />
+</div>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Agentic Architecture** | Advanced | Designing multi-agent workflows (CriticAgents, RAG systems, Orchestrators). |
+| **Prompt Engineering** | Advanced | Zero/Few-shot execution, Structural Predictability (JSON/Markdown), Persona crafting. |
+| **Vector Search & Embeddings** | Intermediate | Implementing FAISS, semantic search pipelines, and dense vector stores. |
+| **Model Integration** | Advanced | Gemini, Vertex AI, OpenRouter, Llama 3, handling token constraints and streaming. |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>🌍 StadiumOps AI (Fifa2026Ops-Ai)</strong></summary>
+<br>
+An intelligent operations scale and logistics management system designed for massive global events like FIFA 2026, utilizing generative AI for predictive infrastructure management.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Next.js, Python, Supabase, LLMs | Enterprise | Optimized RAG | Row-Level Auth | Global event logistics automation | [View Code](https://github.com/AbhishekK7860/Fifa2026Ops-Ai) |
+
+This system handles massive logistical challenges by applying structured AI agents to operational bottlenecks, drastically reducing manual oversight and ensuring real-time adaptive heuristic responses.
+</details>
+
+<details>
+<summary><strong>🔍 AI Recruiter Pipeline (india-runs-ai-recruiter)</strong></summary>
+<br>
+A sophisticated talent evaluation engine leveraging FAISS and multi-agent systems to semantically rank and process thousands of candidate profiles.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FastAPI, Python, FAISS, Next.js | 100k+ Profiles | Sub-second vector search | Secure Embeddings | Automated HR pipeline efficiency | [View Code](https://github.com/AbhishekK7860/india-runs-ai-recruiter) |
+
+Engineered a CriticAgent Python architecture to automate candidate scoring without hallucination. Enforced strict constraints on the LLMs to guarantee predictable, bias-minimized output based on real resume data.
+</details>
+
+<details>
+<summary><strong>🌱 CarbonMind AI (carbonmind-ai)</strong></summary>
+<br>
+An AI-powered sustainability coach integrating Google's Gemini models to provide actionable, real-time environmental consciousness advice.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| TS, Gemini API, Tailwind | B2C App | Low-latency inference | API Key Obfuscation | Promotes green habits | [View Code](https://github.com/AbhishekK7860/carbonmind-ai) |
+
+Focused on the "Power of Persona" in prompt engineering, turning raw LLM outputs into highly engaging, empathetic, and structured conversations to motivate sustainable living.
+</details>
+
+---
+
+## 💼 Experience
+
+**AI Builder & Hackathon Competitor**  
+*Google Cloud PromptWars & Asia-G-Hackathon*  
+*Jan 2024 - Present*  
+- Engineered robust prompt injection defenses and structured predictable outputs for strict hackathon requirements.
+- Architected zero-shot and few-shot pipelines that secured high performance in generative tasks under extreme time constraints.
+- Iterated rapidly on multi-agent collaboration frameworks to solve complex logical reasoning problems.  
+*Skills: Prompt Engineering, Google Cloud, Generative AI, Rapid Prototyping, API Integration*
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :---: | :--- |
+| 🥇 **Hackathon Competitor** | Consistent participant and builder in rigorous challenges (Promptwars-Challenge-3, Asia-G-Hackathon). |
+| ✍️ **Technical Writer** | Author of high-impact articles on Medium detailing applied AI methodologies ("I Didn't Build an App, I Learned to Speak to AI..."). |
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-9333EA?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-9333EA?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+</div>
+
+---
+
+## 📊 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Practice-9333EA?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Algorithms-9333EA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Challenges-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekK7860&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A855F7&text_color=94a3b8&icon_color=9333EA" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekK7860&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=A855F7&text_color=94a3b8" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekK7860&theme=tokyonight&hide_border=true&background=050505&ring=A855F7&fire=9333EA&currStreakNum=ffffff" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekK7860&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 📉 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekK7860&theme=tokyo-night&bg_color=050505&color=A855F7&line=9333EA&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbhishekK7860/AbhishekK7860/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## ⚡ Current Focus
+
+`yaml
+Current_Focus:
+  Learning:
+    - Advanced RAG architectures
+    - LLM fine-tuning and evaluation frameworks
+  Building:
+    - Agentic multi-role ecosystems
+    - High-performance WebGL portfolio interfaces
+  Exploring:
+    - Cosmology and space physics simulations
+  Open_To:
+    - AI Engineering Roles
+    - Full-Stack Development
+`
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="mailto:mrzubane786@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-9333EA?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-santoshkumar-kesarwani-1723682a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9333EA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/AbhishekK7860"><img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://abhishekk7860.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+---
+
+<div align="center">
+  <i>"Building systems that speak the language of human intent."</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=100&section=footer" alt="Footer Banner" width="100%" />
+</div>
