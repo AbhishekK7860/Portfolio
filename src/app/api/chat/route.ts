@@ -30,7 +30,7 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: "Missing API key configuration." }, { status: 500 });
     }
 
-    const model = process.env.OPENROUTER_MODEL || "google/gemma-2-9b-it:free";
+    const model = process.env.OPENROUTER_MODEL || "nvidia/nemotron-3.5-lightning:free";
     const body = await req.json();
     
     if (!body.messages || !Array.isArray(body.messages)) {
@@ -59,7 +59,7 @@ export async function POST(req: Request) {
 
     if (!response.ok) {
       const status = response.status;
-      console.error(`[OpenRouter API Error]: ${status} ${response.statusText}`);
+      console.error(`[OpenRouter API Error]: ${status} ${response.statusText}`, await response.text());
       return NextResponse.json({ error: `API Error ${status}` }, { status });
     }
 
