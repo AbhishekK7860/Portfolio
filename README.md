@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/BCA_Student-2027-9333EA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic" />
   <img src="https://img.shields.io/badge/Location-India-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="https://abhishekk7860.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhi-portfolio-rust-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abhishek-santoshkumar-kesarwani-1723682a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mrzubane786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -198,7 +198,7 @@ Current_Focus:
   <a href="mailto:mrzubane786@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-9333EA?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/abhishek-santoshkumar-kesarwani-1723682a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-9333EA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AbhishekK7860"><img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://abhishekk7860.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhi-portfolio-rust-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ---
