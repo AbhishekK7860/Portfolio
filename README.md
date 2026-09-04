@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9333EA&height=250&section=header&text=Abhishek%20Kesarwani&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Prompt+Engineering+Specialist;Architecting+Scalable+Full+Stack+Apps;Hackathon+Competitor+&+Problem+Solver" alt="Typing SVG" />
@@ -92,6 +92,18 @@ An AI-powered sustainability coach integrating Google's Gemini models to provide
 | TS, Gemini API, Tailwind | B2C App | Low-latency inference | API Key Obfuscation | Promotes green habits | [View Code](https://github.com/AbhishekK7860/carbonmind-ai) |
 
 Focused on the "Power of Persona" in prompt engineering, turning raw LLM outputs into highly engaging, empathetic, and structured conversations to motivate sustainable living.
+</details>
+
+<details>
+<summary><strong>🌌 Antigravity 3D Portfolio &amp; AI Engineering Showcase (Portfolio)</strong></summary>
+<br>
+A high-performance personal engineering portfolio and interactive showcase of an engineered AI development environment, featuring a sentient 3D WebGL sentinel, multi-agent orchestration simulator, and strict terminal backpressure verification.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Next.js 16, Three.js, R3F, Motion v13, Tailwind v4, Playwright | Global Web | 60 FPS WebGL / Sub-10ms lerp | Client-Side Scoped / Zero Leaks | World-class AI-engineering proof | [View Code](https://github.com/AbhishekK7860/Portfolio) |
+
+Engineered a two-pass AI workflow (Antigravity creative exploration + Claude Code deterministic backpressure) governed by custom design skills (emil-design-eng, design-taste-frontend, impeccable, claude-workflow, continuous-agent-loop). Features coordinate-normalized gaze tracking, radial socket boundary clamping, and 100% automated E2E test verification.
 </details>
 
 ---

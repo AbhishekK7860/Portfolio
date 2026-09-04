@@ -13,7 +13,7 @@ export function Contact() {
   return (
     <section id="contact" className="mx-auto max-w-6xl px-6 py-24 md:py-32 lg:px-8">
       <Reveal>
-        <SectionHeading num="06" label="CONNECT" title="Contact" />
+        <SectionHeading num="07" label="CONNECT" title="Contact" />
       </Reveal>
 
       <div className="grid gap-12 lg:grid-cols-12">

@@ -45,7 +45,8 @@ export function SideNav() {
                       : "text-faint group-hover:text-muted",
                   )}
                 >
-                  {item.num} {item.label}
+                  {item.num}
+                  <span className="hidden xl:group-hover:inline 2xl:inline"> {item.label}</span>
                 </span>
               </button>
             </li>

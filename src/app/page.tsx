@@ -6,6 +6,7 @@ import { PersonalAssistant } from "@/app/components/PersonalAssistant";
 import { Hero } from "@/app/components/sections/Hero";
 import { About } from "@/app/components/sections/About";
 import { Projects } from "@/app/components/sections/Projects";
+import { Workflow } from "@/app/components/sections/Workflow";
 import { Skills } from "@/app/components/sections/Skills";
 import { Experiments } from "@/app/components/sections/Experiments";
 import { Writing } from "@/app/components/sections/Writing";
@@ -25,7 +26,7 @@ export default function Home() {
       <SocialRail />
       <PersonalAssistant />
 
-      <main className="relative z-10">
+      <main className="relative z-10 lg:pl-28 xl:pl-32 2xl:pl-0">
         <Hero />
 
         {/* Content slab — opaque so sections stay readable above the fixed cosmos */}
@@ -37,6 +38,8 @@ export default function Home() {
           <About />
           <Divider />
           <Projects />
+          <Divider />
+          <Workflow />
           <Divider />
           <Skills />
           <Divider />

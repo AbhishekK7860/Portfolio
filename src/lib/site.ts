@@ -49,10 +49,11 @@ export const site = {
     { id: "home", num: "00", label: "HOME" },
     { id: "about", num: "01", label: "ABOUT" },
     { id: "projects", num: "02", label: "PROJECTS" },
-    { id: "skills", num: "03", label: "SKILLS" },
-    { id: "experiments", num: "04", label: "EXPERIMENTS" },
-    { id: "writing", num: "05", label: "WRITING" },
-    { id: "contact", num: "06", label: "CONTACT" },
+    { id: "workflow", num: "03", label: "HOW I BUILD" },
+    { id: "skills", num: "04", label: "CAPABILITIES" },
+    { id: "experiments", num: "05", label: "EXPERIMENTS" },
+    { id: "writing", num: "06", label: "WRITING" },
+    { id: "contact", num: "07", label: "CONTACT" },
   ] satisfies NavSection[],
 
   socials: {

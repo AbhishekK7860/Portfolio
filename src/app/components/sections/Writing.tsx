@@ -7,7 +7,7 @@ export function Writing() {
   return (
     <section id="writing" className="mx-auto max-w-6xl px-6 py-24 md:py-32 lg:px-8">
       <Reveal>
-        <SectionHeading num="05" label="FIELD NOTES" title="Writing" />
+        <SectionHeading num="06" label="FIELD NOTES" title="Writing" />
       </Reveal>
       <Reveal>
         <p className="mb-12 max-w-2xl text-muted">

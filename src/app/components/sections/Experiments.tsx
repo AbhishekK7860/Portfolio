@@ -6,7 +6,7 @@ export function Experiments() {
   return (
     <section id="experiments" className="mx-auto max-w-6xl px-6 py-24 md:py-32 lg:px-8">
       <Reveal>
-        <SectionHeading num="04" label="EXPLORATION" title="Experiments" />
+        <SectionHeading num="05" label="EXPLORATION" title="Experiments" />
       </Reveal>
 
       <div className="border-t border-line">

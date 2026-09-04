@@ -27,12 +27,21 @@ export function CanvasWrapper() {
 
       <Canvas3D />
 
-      {/* Left legibility scrim */}
+      {/* Left legibility scrim — diagonal, tuned for the desktop left column */}
       <div
-        className="pointer-events-none absolute inset-0"
+        className="pointer-events-none absolute inset-0 hidden md:block"
         style={{
           background:
             "linear-gradient(100deg, rgba(4,5,12,0.94) 0%, rgba(4,5,12,0.6) 32%, rgba(4,5,12,0.08) 60%, rgba(4,5,12,0) 100%)",
+        }}
+      />
+      {/* Mobile legibility scrim — vertical, since hero text spans full width
+          and would otherwise sit over the bright particle field */}
+      <div
+        className="pointer-events-none absolute inset-0 md:hidden"
+        style={{
+          background:
+            "linear-gradient(180deg, rgba(4,5,12,0.92) 0%, rgba(4,5,12,0.78) 40%, rgba(4,5,12,0.55) 70%, rgba(4,5,12,0.35) 100%)",
         }}
       />
       {/* Bottom legibility scrim */}

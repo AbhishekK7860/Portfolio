@@ -15,14 +15,24 @@ export function SignalHUD() {
   const [coords, setCoords] = useState({ x: 0.5, y: 0.5 });
 
   useEffect(() => {
+    let pendingRaf = 0;
     const onMove = (e: PointerEvent) => {
       const x = e.clientX / window.innerWidth;
       const y = e.clientY / window.innerHeight;
       pointer.current = { x, y };
-      setCoords({ x, y });
+
+      if (!pendingRaf) {
+        pendingRaf = requestAnimationFrame(() => {
+          setCoords({ x, y });
+          pendingRaf = 0;
+        });
+      }
     };
     window.addEventListener("pointermove", onMove, { passive: true });
-    return () => window.removeEventListener("pointermove", onMove);
+    return () => {
+      window.removeEventListener("pointermove", onMove);
+      if (pendingRaf) cancelAnimationFrame(pendingRaf);
+    };
   }, []);
 
   useEffect(() => {
